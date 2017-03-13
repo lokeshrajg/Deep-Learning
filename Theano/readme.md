@@ -1,1 +1,1 @@
-Classi
+Classifier_gdp.py : implementation of the deep neural network using Theano framework to build the calssifier to clssify between nations which have higher GDP per capita than average GDP of the country 
